@@ -2,7 +2,7 @@ Name: vertx
 Cartridge-Short-Name: VERTX
 Display-Name: Vert.x 3
 Description: "Vert.x is a tool-kit for building reactive applications on the JVM."
-Version: '3.0'
+Version: '3.3.2'
 License: ASL 2.0
 Vendor: Vert.x
 Cartridge-Version: 0.0.1
